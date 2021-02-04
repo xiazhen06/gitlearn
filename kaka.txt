@@ -1,3 +1,5 @@
 谁说过
 我没说过
 来一个
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
